@@ -60,3 +60,16 @@ pip install -r requirements.txt
 
 # Run the chatbot UI
 streamlit run ui/interface.py
+```
+---
+
+## 📊 Dataset Credit
+
+This project uses a public dataset available from Kaggle:
+
+**Auto Insurance Claims Dataset**  
+🔗 [Kaggle - Auto Insurance Claims](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data) 
+
+All rights belong to the original dataset author.
+
+---
